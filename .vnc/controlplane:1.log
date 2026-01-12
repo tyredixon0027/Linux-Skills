@@ -1,0 +1,161 @@
+
+Xvnc TigerVNC 1.13.1 - built 2024-04-01 08:26
+Copyright (C) 1999-2022 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12101011
+
+
+Thu Dec 18 17:36:53 2025
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'controlplane:1 (root)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes None controlplane:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x64627676a580 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x64627676a580 for event 3
+gpg-agent[25565]: directory '/root/.gnupg' created
+gpg-agent[25565]: directory '/root/.gnupg/private-keys-v1.d' created
+gpg-agent[25566]: gpg-agent (GnuPG) 2.4.4 started
+
+(xfwm4:25567): xfwm4-WARNING **: 17:36:53.746: Unsupported GL renderer (llvmpipe (LLVM 20.1.2, 256 bits)).
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+
+** (light-locker:25628): ERROR **: 17:36:54.631: session_id is not set, is /proc mounted with hidepid>0?
+xfce4-panel-Message: 17:36:55.026: Plugin "(null)-4" was not found and has been removed from the configuration
+
+** (xiccd:25629): WARNING **: 17:36:55.117: EDID is empty
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:25670): xfce4-power-manager-WARNING **: 17:36:55.197: Monitor is not DPMS capable
+
+(polkit-gnome-authentication-agent-1:25641): polkit-gnome-1-WARNING **: 17:36:55.521: Unable to determine the session we are in: No session for pid 25641
+xfce4-panel-Message: 17:36:57.595: Plugin "(null)-19" was not found and has been removed from the configuration
+
+(wrapper-2.0:25728): xfce4-power-manager-plugin-WARNING **: 17:36:58.503: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+Killing Xtigervnc process ID 25519...
+(xfce4-power-manager:25670): libxfce4ui-WARNING **: 17:47:26.514: ICE I/O Error
+
+(xfce4-power-manager:25670): libxfce4ui-WARNING **: 17:47:26.514: Disconnected from session manager.
+
+(xfsettingsd:25581): libxfce4ui-WARNING **: 17:47:26.515: ICE I/O Error
+
+(xfsettingsd:25581): libxfce4ui-WARNING **: 17:47:26.516: Disconnected from session manager.
+xfsettingsd: Another instance took over. Leaving...
+
+(Thunar:25616): thunar-WARNING **: 17:47:26.521: Name 'org.xfce.FileManager' lost on the message dbus.
+
+(Thunar:25616): thunar-WARNING **: 17:47:26.522: Name 'org.freedesktop.FileManager1' lost on the message dbus.
+
+** (xiccd:25629): WARNING **: 17:47:26.528: Exiting
+Another notification daemon is running, exiting
+Another notification daemon is running, exiting
+
+** (xfce4-power-manager:25670): WARNING **: 17:47:26.589: Error: The connection is closed
+
+
+** (xfce4-power-manager:25670): WARNING **: 17:47:26.589: Error: The connection is closed
+
+
+Thu Dec 18 17:47:26 2025
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+XIO:  fatal IO error 25 (Inappropriate ioctl for device) on X server ":1.0"
+      after 25 requests (25 known processed) with 0 events remaining.
+ success!
+
+Xvnc TigerVNC 1.13.1 - built 2024-04-01 08:26
+Copyright (C) 1999-2022 TigerVNC Team and many others (see README.rst)
+See https://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 12101011
+
+
+Mon Jan 12 12:26:40 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'controlplane:1 (root)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes None controlplane:1 to connect to the VNC server.
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Warning:          Could not resolve keysym XF86CameraAccessEnable
+> Warning:          Could not resolve keysym XF86CameraAccessDisable
+> Warning:          Could not resolve keysym XF86CameraAccessToggle
+> Warning:          Could not resolve keysym XF86NextElement
+> Warning:          Could not resolve keysym XF86PreviousElement
+> Warning:          Could not resolve keysym XF86AutopilotEngageToggle
+> Warning:          Could not resolve keysym XF86MarkWaypoint
+> Warning:          Could not resolve keysym XF86Sos
+> Warning:          Could not resolve keysym XF86NavChart
+> Warning:          Could not resolve keysym XF86FishingChart
+> Warning:          Could not resolve keysym XF86SingleRangeRadar
+> Warning:          Could not resolve keysym XF86DualRangeRadar
+> Warning:          Could not resolve keysym XF86RadarOverlay
+> Warning:          Could not resolve keysym XF86TraditionalSonar
+> Warning:          Could not resolve keysym XF86ClearvuSonar
+> Warning:          Could not resolve keysym XF86SidevuSonar
+> Warning:          Could not resolve keysym XF86NavInfo
+/usr/bin/startxfce4: X server already running on display :1
+Errors from xkbcomp are not fatal to the X server
+[mi] mieq: warning: overriding existing handler (nil) with 0x575b22ba8580 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x575b22ba8580 for event 3
+
+(xfwm4:2023): xfwm4-WARNING **: 12:26:41.167: Unsupported GL renderer (llvmpipe (LLVM 20.1.2, 256 bits)).
+Connection failure: Connection refused
+pa_context_connect() failed: Connection refused
+
+** (xiccd:2079): WARNING **: 12:26:42.742: EDID is empty
+
+** (light-locker:2075): ERROR **: 12:26:42.817: session_id is not set, is /proc mounted with hidepid>0?
+
+** (xiccd:2079): CRITICAL **: 12:26:42.895: device 'xrandr-default' does not exist
+
+(polkit-gnome-authentication-agent-1:2091): polkit-gnome-1-WARNING **: 12:26:42.925: Unable to determine the session we are in: No session for pid 2091
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:2159): xfce4-power-manager-WARNING **: 12:26:43.361: Monitor is not DPMS capable
+Killing Xtigervnc process ID 1971...
+(Thunar:2051): thunar-WARNING **: 13:15:11.727: Name 'org.xfce.FileManager' lost on the message dbus.
+
+(Thunar:2051): thunar-WARNING **: 13:15:11.727: Name 'org.freedesktop.FileManager1' lost on the message dbus.
+xfsettingsd: Another instance took over. Leaving...
+
+** (xiccd:2079): WARNING **: 13:15:11.737: Exiting
+
+(xfce4-power-manager:2159): libxfce4ui-WARNING **: 13:15:11.740: ICE I/O Error
+
+(xfce4-power-manager:2159): libxfce4ui-WARNING **: 13:15:11.740: Disconnected from session manager.
+Another notification daemon is running, exiting
+Another notification daemon is running, exiting
+
+** (xfce4-power-manager:2159): WARNING **: 13:15:11.749: Error: The connection is closed
+
+
+** (xfce4-power-manager:2159): WARNING **: 13:15:11.749: Error: The connection is closed
+
+XIO:  fatal IO error 25 (Inappropriate ioctl for device) on X server ":1.0"
+      after 25 requests (25 known processed) with 0 events remaining.
+
+Mon Jan 12 13:15:11 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ success!
